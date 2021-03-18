@@ -1,5 +1,7 @@
 # Python Challenges
 
+A coding challange during class where we had to use python to make a calculaator. And other things with numbers.
+
 ## Getting Started
 
 * Fork and clone this repository
